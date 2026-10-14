@@ -8,12 +8,13 @@ Conservar todos los archivos juntos y abrir `index.html`. La guía está en `gui
 
 ## Publicación
 
-Preparado para GitHub Pages desde la raíz de la rama principal. No requiere compilación. El enlace confirmado se entregará en el paquete final cuando termine la publicación.
+Preparado para GitHub Pages desde la raíz de la rama principal. No requiere compilación. Publicado en https://maintenancelab-cl.github.io/repuestos-mfb501/ · Guía en guia.html.
 
 ## Archivos
 
 - `index.html`: panel y recorrido.
 - `app.js`: filtros, cálculos y gráficos.
+- `explorer.js`: comparación A/B, fichas, búsqueda, modo exposición y exportación CSV.
 - `data.js`: datos del caso, incluidos resultados derivados.
 - `style.css`: diseño responsive.
 - `guia.html`: instrucciones de uso, guion y preguntas.
